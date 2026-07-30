@@ -4,13 +4,13 @@ An exploratory data analysis (EDA) project examining student academic performanc
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project explores the `Students Performance.csv` dataset to understand how various socioeconomic and academic factors influence student test scores in **Math**, **Reading**, and **Writing**. The analysis covers basic data exploration, conditional filtering, group aggregations, and statistical visual distributions.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 * **Language:** Python 3.x
 * **Environment:** Jupyter Notebook / VS Code
@@ -21,7 +21,7 @@ This project explores the `Students Performance.csv` dataset to understand how v
 
 ---
 
-## 🔍 Key Steps & Analysis
+##  Key Steps & Analysis
 
 ### 1. Basic Data Exploration
 * Analyzed overall dataset structure, data types, and shape ($1000 \text{ rows} \times 8 \text{ columns}$).
@@ -41,7 +41,7 @@ This project explores the `Students Performance.csv` dataset to understand how v
 
 ---
 
-## 💡 Key Takeaways
+##  Key Takeaways
 
 1. **Impact of Test Preparation:** Completing the test preparation course provided a noticeable boost across all subjects, yielding the highest performance increase in **Writing** (~10-point improvement).
 2. **Subject Performance by Gender:** Female students achieved higher average scores in Reading and Writing, whereas male students showed slightly higher average performance in Math.
